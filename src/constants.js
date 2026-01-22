@@ -4,7 +4,7 @@ export const PRODUCTS = [
     name: 'Elegant Ceramic Vase',
     description: 'A beautifully handcrafted ceramic vase, perfect for adding a touch of elegance to any room. Its minimalist design and smooth finish make it a versatile piece for various decor styles.',
     price: 89.99,
-    imageUrl: 'https://images.stockcake.com/public/9/b/4/9b4d5cc3-3074-4394-a2f2-30f0ebc95baf_large/elegant-ceramic-vase-stockcake.jpg',
+    imageUrl: 'https://m.media-amazon.com/images/I/61NOoIf7+cL._AC_.jpg',
   },
   {
     id: '2',

@@ -23,11 +23,11 @@ export const ProductCard = ({ product, onNavigate }) => {
     
       onClick={() => onNavigate('productDetail', product.id)}
     >
-      <div className="aspect-w-1 aspect-h-1 w-full overflow-hidden">
+      <div className="aspect-w-1 aspect-h-1 w-[200px] overflow-hidden ]">
         <img
           src={imageUrl}
           alt={productName}
-          className="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-500 ease-in-out"
+          className="w-[200px] h-full object-cover object-center group-hover:scale-105 transition-transform duration-500 ease-in-out"
         />
       </div>
       <div className="p-6">
